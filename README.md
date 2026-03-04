@@ -13,19 +13,9 @@ I’m currently studying the bilingual course at the University of Oviedo, with 
 - [Leetcode](https://www.leetcode.com/slavencer)
 - [Linkedin](https://www.linkedin.com/in/javiercarrascoarango)
 - [Signal](https://signal.me/#eu/-gnbaFEXeBNhNFGqMfudDoDDlm3wNsL8Lp9-wxskdujg7n359tNPd4hCf2Tyb5wC)
+- [Portfolio](https://y4vra.github.io/portfolio/)
 
 ## Stats
 
-![Y4vra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y4vra&show_icons=true&theme=aura) ![Leetcode Stats](https://leetcard.jacoblin.cool/slavencer)
-
-## Languages and Tools:
-
-I have experience with the following technologies:
-
-- **Languages**: Greatly proficcient in Java, and fluent in Python, JavaScript, C#, with basic knowledge in C++ and C (mostly dealing with pointers).
-- **Web Development**: React, Astro, Node.js, express, HTML5, and CSS3 following web accessibility and usability standards
-- **Html template engines and view technologies**: Twig and Thymeleaf, boostrap, and views in java using swing
-- **Databases**: MySQL, SQLite (using queries for all sql systems), MongoDB, Neo4j
-- **Version Control**: Git, GitHub, BitBucket
-- **Tools**: Docker and docker compose files, Apache Tomcat, XAMPP, Eclipse and WindowBuilder, IntelliJ, Vim, SQLDeveloper, Matlab
-
+![Y4vra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y4vra&show_icons=true&theme=aura) 
+![Leetcode Stats](https://leetcard.jacoblin.cool/slavencer)
