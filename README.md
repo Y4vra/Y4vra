@@ -2,11 +2,9 @@
 
 ## About me
 
-I'm an upcoming software engineer, interested in team management, full stack development, and cybersecurity.
+Hi! I’m Javier. I’m a Software Engineering student based in Oviedo. My approach is rooted in the belief that software should be predictable for clients and sustainable for developers.
 
-I expect to keep learning my whole career.
-
-I’m currently studying the bilingual course at the University of Oviedo, with honours in operating systems and computer's electronic technologies (Tecnología Electrónica de Computadores).
+My main focus lies in Software Development, Cybersecurity, and Team Management, opting for an adaptive methodology that fits the specific needs of the project. I thrive in collaborative environments where clear communication and secure design lead to successful, long-term outcomes for both the client and the team.
 
 ## Contact:
 
