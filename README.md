@@ -12,8 +12,3 @@ My main focus lies in Software Development, Cybersecurity, and Team Management, 
 - [Linkedin](https://www.linkedin.com/in/javiercarrascoarango)
 - [Signal](https://signal.me/#eu/-gnbaFEXeBNhNFGqMfudDoDDlm3wNsL8Lp9-wxskdujg7n359tNPd4hCf2Tyb5wC)
 - [Portfolio](https://y4vra.github.io/portfolio/)
-
-## Stats
-
-![Y4vra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y4vra&show_icons=true&theme=aura) 
-![Leetcode Stats](https://leetcard.jacoblin.cool/slavencer)
